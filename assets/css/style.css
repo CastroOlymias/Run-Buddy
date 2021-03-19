@@ -154,8 +154,8 @@ header nav ul li a {
   justify-content: space-between;
 }
 
-.steps-info {
-  flex: 2 70%
+.step-info {
+  flex: 2 70%;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
